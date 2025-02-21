@@ -1,2 +1,3 @@
-# exam-S1-git
-Examen fin S1 git
+## Contribution 
+Merci de soumettre vos suggestions directement via une pull
+request.
